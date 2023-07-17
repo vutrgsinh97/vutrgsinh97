@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Sinh
-- 🌱 I’m currently learning Javascript and final to become a Full-stack developer.
+- 🌱 Nice to meet you, and thanks for your coming :)
+- 🤤 Contact with me if you wanna talk, be friend ;) https://www.facebook.com/iamsiinh
 - 📫 Reach me at sinhvusinh1997@gmail.com
 
 <!---
